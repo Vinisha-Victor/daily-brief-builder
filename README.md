@@ -284,7 +284,7 @@ Made with 🎬 by \*\*Vini\*\*
 
 B.Tech CS · Asansol Engineering College  
 
-\[GitHub](https://github.com/yourusername) · \[LinkedIn](https://linkedin.com/in/yourprofile)
+\ 
 
 
 
